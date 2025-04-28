@@ -1,0 +1,27 @@
+{
+    "TestData": {
+        "paymentMethod": {
+            "cardNumber": "5454545454545454",
+            "cvc": "901",
+            "name": "Robert Donelly"
+        },
+        "regularProduct": {
+            "title": "SuperATV Rear Bumper, Yamaha",
+            "description": "Wolverine RMAX4 1000",
+            "productSku": "RBG-Y-RMAX4-00",
+            "productUPC": "3700000123987",
+            "price": "355.00"
+        },
+        "userSignIn": {
+            "email": "test+01@gmail.com",
+            "password": "test123456"
+        },
+        "userRegistration": {
+            "name": "Test",
+            "lastName": "User",
+            "email": "test",
+            "emailDomain": "@gmail.com",
+            "password": "test123456"
+        }
+    }
+}
